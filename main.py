@@ -1,7 +1,6 @@
 
 
 
-
 def sin_reprtidos (A,b):
 
   n=(int(b)-int(A))+1 
